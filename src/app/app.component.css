@@ -1,0 +1,11 @@
+.nav-link{
+    &:hover{
+       font-size: bolder;
+       scale: .9;
+    }
+}
+.navbar-brand{
+    &:hover{
+        scale: .9;
+     }
+}
